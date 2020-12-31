@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="./logo.jpg" alt="AWS_LAMBDA_NODE" width="380" height="100">
+    <img src="./logo.jpg" alt="AWS_LAMBDA_NODE" width="380" height="300">
   </a>
 
   <h3 align="center">Serverless AWS Node API with TypeScript And MongoDB</h3>
