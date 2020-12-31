@@ -1,0 +1,6 @@
+name: serverless-node-api
+org: smith
+description: Serverless AWS Node API with TypeScript And MongoDB
+keywords: aws, serverless, lambda, node, typescriptm ,mongo
+repo: https://github.com/smithg09/serverless-node-api
+license: MIT
